@@ -1,0 +1,45 @@
+{
+  "name": "got-knowledge-graph",
+  "version": "1.0.0",
+  "description": "Interactive knowledge graph of Game of Thrones characters and relationships",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "lucide-react": "^0.263.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "game-of-thrones",
+    "knowledge-graph",
+    "data-visualization",
+    "react",
+    "canvas",
+    "neubrutalism"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
